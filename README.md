@@ -1,1 +1,3 @@
-# sodakits-krita-themes
+## sodakits-krita-themes
+
+to be updated!
