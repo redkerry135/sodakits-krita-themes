@@ -1,7 +1,7 @@
 # sodakits-krita-themes
 
-hello and welcome to my little collection of themes for [Krita](https://krita.org/en/) that I made!
-this is still a heavy work in progress, so not much is here at the moment.
+hello and welcome to my little collection of themes for [Krita](https://krita.org/en/) that I made!\
+this is still a heavy work in progress, so not much is here at the moment, and colours will be updated frequently
 
 ### Installation
 1. Download any of the `.colors` files
@@ -20,6 +20,5 @@ The main colour is what colour or palette the theme is generally based on
 ### Screenshots
 coming soon!
 
-### Licensing TLDR
-You may share and/or modify the themes, but you cannot remove my credits.\
-While commercial use is generally allowed, I'd personally prefer if you didn't
+### Licensing/legal TLDR
+You may share and/or modify the themes, but you cannot remove my credits
