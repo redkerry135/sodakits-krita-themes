@@ -12,7 +12,7 @@ this is still a heavy work in progress, so not much is here at the moment.
 6. Go to Settings -> Themes to select your desired theme!
 
 ### Extra info
-My themes are named in a specific format: sodakits Light/Dark [main colour], for example: sodakitsDarkLavender
+My themes are named in a specific format: sodakits Light/Dark [main colour], for example: sodakitsDarkLavender\
 The Light/Dark part tells whether the theme is light or dark themed
 
 ### Screenshots
