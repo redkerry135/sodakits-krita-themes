@@ -1,4 +1,4 @@
-## sodakits-krita-themes
+### sodakits-krita-themes
 
 hello and welcome to my little collection of themes for [Krita](https://krita.org/en/) that I made!
 this is still a heavy work in progress, so not much is here at the moment.
@@ -13,6 +13,7 @@ this is still a heavy work in progress, so not much is here at the moment.
    
 My themes are named in a specific format: sodakits Light/Dark [main colour]
 For example, sodakitsDarkLavender
+The Light/Dark part tells whether the theme is light or dark themed
 
 ### Screenshots
 coming soon!
