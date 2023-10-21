@@ -13,7 +13,9 @@ this is still a heavy work in progress, so not much is here at the moment.
 
 ### Extra info
 My themes are named in a specific format: sodakits Light/Dark [main colour], for example: sodakitsDarkLavender\
-The Light/Dark part tells whether the theme is light or dark themed
+The sodakits part is my username and credits\
+The Light/Dark part tells whether the theme is light or dark themed\
+The main colour is what colour or palette the theme is generally based on\
 
 ### Screenshots
 coming soon!
