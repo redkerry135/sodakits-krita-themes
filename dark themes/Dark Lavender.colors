@@ -9,14 +9,14 @@ ForegroundNormal=255,255,255
 
 [Colors:Selection]
 BackgroundAlternate=62,138,204
-BackgroundNormal=201,169,223
+BackgroundNormal=131,118,140
 ForegroundLink=0,49,110
 ForegroundNormal=0,0,0
 
 
 [Colors:View]
 BackgroundAlternate=17,17,17
-BackgroundNormal=7,0,0
+BackgroundNormal=13,0,18
 ForegroundLink=146,124,171
 ForegroundNormal=255,255,255
 
