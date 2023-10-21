@@ -10,9 +10,9 @@ this is still a heavy work in progress, so not much is here at the moment.
 4. Copy and paste the `.colors` files, or the zip file. Extract the zip file
 5. Restart Krita
 6. Go to Settings -> Themes to select your desired theme!
-   
-My themes are named in a specific format: sodakits Light/Dark [main colour]
-For example, sodakitsDarkLavender
+
+### Extra info
+My themes are named in a specific format: sodakits Light/Dark [main colour], for example: sodakitsDarkLavender
 The Light/Dark part tells whether the theme is light or dark themed
 
 ### Screenshots
