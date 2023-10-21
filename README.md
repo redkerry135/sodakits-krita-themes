@@ -19,3 +19,6 @@ The main colour is what colour or palette the theme is generally based on
 
 ### Screenshots
 coming soon!
+
+### Licensing TLDR
+You may share and/or modify the themes, but you cannot sell them or remove my credits
