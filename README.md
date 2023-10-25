@@ -21,4 +21,4 @@ The main colour is what colour or palette the theme is generally based on
 coming soon!
 
 ### Licensing/legal TLDR
-You may share and/or modify the themes, but you cannot remove my credits
+You may share and/or modify the themes, but you cannot remove my credits. No liability or warranty is provided
